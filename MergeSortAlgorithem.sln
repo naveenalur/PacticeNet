@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSortAlgorithem", "MergeSortAlgorithem\MergeSortAlgorithem.csproj", "{196C609E-7D61-4043-AC0C-70AB1E38C3CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchAlogorothem", "BinarySearchAlogorothem\BinarySearchAlogorothem.csproj", "{12BD01B3-FFE6-405C-894E-B68DF4349C41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchalgorithem", "BinarySearchAlogorothem\BinarySearchalgorithem.csproj", "{12BD01B3-FFE6-405C-894E-B68DF4349C41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
